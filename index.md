@@ -12,23 +12,23 @@
 
 | Content Table |
 |:-------:|
-| [Question 1](#question-1) |
-| [Question 2](#question-2) |
-| [Question 3](#question-3) |
-| [Question 4](#question-4) |
-| [Question 5](#question-5) |
-| [Question 6](#question-6) |
-| [Question 7](#question-7) |
-| [Question 8](#question-8) |
-| [Question 9](#question-9) |
-| [Question 10](#question-10) |
-| [Question 11](#question-11) |
-| [Question 12](#question-12) |
-| [Question 13](#question-13) |
-| [Question 14](#question-14) |
-| [Question 15](#question-15) |
-| [Question 16](#question-16) |
-| [Question 17](#question-17) |
+| [Question 1: Taylor's theorm of two variables](#question-1) |
+| [Question 2: Taylor's theorm of two variables](#question-2) |
+| [Question 3: Taylor's theorm of two variables](#question-3) |
+| [Question 4: Taylor's theorm of two variables](#question-4) |
+| [Question 5: Approximation](#question-5) |
+| [Question 6: Error](#question-6) |
+| [Question 7: Error](#question-7) |
+| [Question 8: theory related](#question-8) |
+| [Question 9: Maxima-Minima](#question-9) |
+| [Question 10: Maxima-Minima](#question-10) |
+| [Question 11: Maxima-Minima or Lagrange's](#question-11) |
+| [Question 12: Maxima-Minima](#question-12) |
+| [Question 13: Maxima-Minima](#question-13) |
+| [Question 14: Lagrange's Method](#question-14) |
+| [Question 15: Lagrange's Method](#question-15) |
+| [Question 16: Lagrange's Method](#question-16) |
+| [Question 17: Lagrange's Method](#question-17) |
 
 
 ### Question 1:
