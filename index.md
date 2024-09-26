@@ -33,43 +33,25 @@
 
 ### Question 1:
 
-Use Taylor's theorm to expand _f(x,y)_ in powers of (x-1) and (y-2).
+Use Taylor's theorm to expand $$f(x,y) = x^2 + xy + y^2$$ in powers of (x-1) and (y-2).
 
-$$
-f(x,y) = x^2 + xy + y^2
-$$
+
 
 ### Question 2:
 
-Expand _f(x,y)_  in powers of x and y.
-
-$$
-f(x,y) = e^y \ln (1+x)
-$$
+Expand $$f(x,y) = e^y \ln (1+x)$$ in powers of x and y.
 
 ### Question 3: 
 
-Expand _f(x,y)_ at (0,0) in powers of x and y.
-
-$$
-f(x,y)= \cos{x} \cos{y}
-$$
+Expand $$f(x,y)= \cos{x} \cos{y}$$ at (0,0) in powers of x and y.
 
 ### Question 4:
 
-Expand _f(x,y)_ by taylor series about (1,1) and hence find the value of _f(0.9,1.1)_
-
-$$
-f(x,y) = \tan^{-1} {(\frac{y}{x})}
-$$
+Expand $$f(x,y) = \tan^{-1} {(\frac{y}{x})}$$ by taylor series about (1,1) and hence find the value of $$\tan^{-1} {(\frac{0.9}{1.1})}$$
 
 ### Question 5: 
 
-Using Differential calculus, calculate the approximate value of _y(1.997)_ where:
-
-$$
-y(x) = x^4 - 2x^3 + 9x +7
-$$
+Using Differential calculus, calculate the approximate value of _y(1.997)_ where $$y(x) = x^4 - 2x^3 + 9x +7$$
 
 ### Question 6: 
 
@@ -79,9 +61,7 @@ The time __T__ of a complete qscillation of a simple pendulum of length _L_ is g
 
 ### Question 7: 
 
-The diameter and height of a right circular cylinder are measured to be  5 and 8 inches respectively. If each of these dimensions may be in error of:  
-$$\pm 0.1 inch$$
-, find the relative percentage error in volume of the cylinder.
+The diameter and height of a right circular cylinder are measured to be  5 and 8 inches respectively. If each of these dimensions may be in error of $$\pm 0.1 inch$$, find the relative percentage error in volume of the cylinder.
 
 ### Question 8:
 What are the advantages of lagrange's method over the ordinary method of calculating maxima and minima ?
