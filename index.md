@@ -120,3 +120,15 @@ Find the maximum and minimum distance of the point (3,4,12) from the given spher
 
 sphere: 
 $$x^2+y^2+z^2=1$$
+
+
+### Other Assignments:
+
+|[Assignment 1](https://saksham3736.github.io/mathematics/)|
+|:---------------------------------------------------------:|
+|[Assignment 3](https://saksham3736.github.io/mathematics2/)|
+
+#### Made by:
+- Name: Saksham
+- Branch: Computer Science Engineering
+- My portfolio: [Saksham](https://saksham3736.github.io)
