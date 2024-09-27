@@ -126,7 +126,7 @@ $$x^2+y^2+z^2=1$$
 
 |[Assignment 1](https://saksham3736.github.io/mathematics/)|
 |:---------------------------------------------------------:|
-|[Assignment 3](https://saksham3736.github.io/mathematics2/)|
+|[Assignment 2](https://saksham3736.github.io/mathematics3/)|
 
 #### Made by:
 - Name: Saksham
