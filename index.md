@@ -116,7 +116,7 @@ $$13x^2-10xy+13y^2=72$$
 
 ### Question 17: 
 
-Find thye maximum and minimum distance of the point (3,4,12) from the given sphere using lagrange's method.
+Find the maximum and minimum distance of the point (3,4,12) from the given sphere using lagrange's method.
 
 sphere: 
 $$x^2+y^2+z^2=1$$
