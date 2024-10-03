@@ -11,7 +11,7 @@
   - Lagrange's Method
 
 | Content Table |
-|:-------:|
+|---------|
 | [Question 1: Taylor's theorm of two variables](#question-1) |
 | [Question 2: Taylor's theorm of two variables](#question-2) |
 | [Question 3: Taylor's theorm of two variables](#question-3) |
